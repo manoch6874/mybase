@@ -8,5 +8,3 @@ https://mirror.xyz/0xmoei.eth/q6bkosOnWcQ-wkZeRoVdYiMDSWXvBeR2NuLV92SnZ_g
 6. Deploy it in Netlify.
 7. Follow the Base instruction to submit the NFT request.
 https://base.mirror.xyz/hwNwqXHVoLlO8s4DZppog4DfGvM34tigaDjOWuEJQfY
-```
-Conn
