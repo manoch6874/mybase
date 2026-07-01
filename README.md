@@ -6,4 +6,3 @@ https://mirror.xyz/0xmoei.eth/q6bkosOnWcQ-wkZeRoVdYiMDSWXvBeR2NuLV92SnZ_g
 4. Create a new repository based on this template for the Front-end.
 5. Change the TOKEN_CONTRACT_ADDRESS in constants/index.js to your newly token address.
 6. Deploy it in Netlify.
-7. Follow the Base instruction to submit the NFT request.
