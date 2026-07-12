@@ -8,3 +8,21 @@ https://mirror.xyz/0xmoei.eth/q6bkosOnWcQ-wkZeRoVdYiMDSWXvBeR2NuLV92SnZ_g
 6. Deploy it in Netlify.
 w repository based on this template for the Front-end.
 5. Change the TOKEN_CONTRACT_ADD
+
+3. Submit contract for decoding via Dune
+4. Create a new repository based on this template for the Front-end.
+5. Change t
+6. 
+3. Submit contract for decoding via Dune
+4. Create a new repository based on this template for the Front-end.
+5. Change t
+6. 
+3. Submit contract for decoding via Dune
+4. Create a new repository based on this template for the Front-end.
+5. Change t
+
+6. 
+3. Submit contract for decoding via Dune
+4. Create a new repository based on this template for the Front-end.
+5. Change t
+v
