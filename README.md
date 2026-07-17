@@ -7,12 +7,7 @@ https://mirror.xyz/0xmoei.eth/q6bkosOnWcQ-wkZeRoVdYiMDSWXvBeR2NuLV92SnZ_g
 5. Change the TOKEN_CONTRACT_ADDRESS in constants/index.js to your newly token address.
 6. Deploy it in Netlify.
 w repository based on this template for the Front-end.
-5. Change the TOKEN_CONTRACT_ADD
-
-3. Submit contract for decoding via Dune
-4. Create a new repository based on this template for the Front-end.
-5. Change t
-6. 
+5پ
 3. Submit contract for decoding via Dune
 4. Create a new repository based on this template for the Front-end.
 5. Change t
