@@ -6,4 +6,6 @@ w repository based on this template for the Front-end.
 4. Create a new repository based on this template for the Front-end.
 1
 2
-36
+3
+6
+4
