@@ -8,6 +8,3 @@ w repository based on this template for the Front-end.
 a
 s
 d
-f
-f
-g
