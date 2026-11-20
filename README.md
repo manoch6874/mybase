@@ -7,5 +7,3 @@ w repository based on this template for the Front-end.
 1
 2
 3
-4
-5
